@@ -1,4 +1,4 @@
-### BackendlessDataCollectionSample is a simple project that demonstrates usage of the BackendlessDataCollection class binded to UITableView.
+*BackendlessDataCollectionSample* is a simple project that demonstrates usage of the BackendlessDataCollection class binded to UITableView.
 
 When downloaded
 1. Open a Terminal window, and go to the project's directory.
